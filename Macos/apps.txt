@@ -1,0 +1,39 @@
+* AlDente
+* Alfred 5
+* AirBattery
+* BackService
+* Brave Browser
+* ChatGPT
+* Cursor
+* Darkroom
+* Dash
+* Dockey
+* Docker
+* FileZilla
+* Firefox
+* Hot
+* Klack
+* LocalSend
+* Microsoft Excel
+* Microsoft Outlook
+* Microsoft PowerPoint
+* Microsoft Word
+* OpenCode
+* Raycast
+* Raspberry Pi Imager
+* Steam
+* Sublime Text
+* Swift Playground
+* Telegram
+* UTM
+* Vanilla
+* Visual Studio Code
+* VLC
+* VencordInstaller
+* Warp
+* X
+* Zen
+* Govee Lite
+* Xiaomi Home
+* WhatsApp
+* TickTick

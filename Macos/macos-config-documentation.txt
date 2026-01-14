@@ -1,0 +1,172 @@
+# =========================================================
+# macOS PERSONAL CONFIGURATION DOCUMENTATION
+# Owner: Mehdi
+# Generated from: defaults read system dump
+# Purpose: Human readable documentation + reproducible setup
+# =========================================================
+
+# =========================================================
+# 1. SYSTEM APPEARANCE & UI
+# =========================================================
+- Theme: Dark Mode
+- Accent Color: Graphite
+- Highlight Color: Green
+- Menu Bar Font Size: Large
+- Reduce desktop tinting: Enabled
+- Scroll bars: Show when scrolling
+- Double click window title bar: Maximize
+- Window tabbing mode: Always
+- Spaces auto-switch on app activate: Enabled
+- UI animations: Partially reduced
+
+Reason:
+- Clean dark UI
+- High contrast
+- Faster window management
+- Less visual noise
+
+# =========================================================
+# 2. LANGUAGE & REGION
+# =========================================================
+Primary languages priority:
+1) en-GB
+2) tr-NL
+
+Locale: en_NL
+
+Siri languages:
+- en-GB
+- tr-TR
+
+Installed language packs:
+- Turkish, English, Dutch, Persian, Polish, French, German, Italian, Nordic languages, etc.
+
+Reason:
+- Multilingual daily usage
+- English-first development environment
+
+# =========================================================
+# 3. KEYBOARD & TEXT INPUT (CODER MODE)
+# =========================================================
+All smart text features DISABLED:
+- Auto correction: OFF
+- Auto capitalization: OFF
+- Smart quotes: OFF
+- Smart dashes: OFF
+- Auto period substitution: OFF
+- Inline prediction: OFF
+- Spell correction: OFF
+
+Reason:
+- Prevents code being broken
+- Full manual typing control
+
+Keyboard UI mode: Normal
+
+# =========================================================
+# 4. FINDER & FILE MANAGEMENT
+# =========================================================
+- Show all file extensions: ON
+- Confirm before extension change: OFF
+- Window tabbing: Always
+- Minimize on double click: OFF
+
+Reason:
+- Always see real file types
+- Avoid hidden extensions
+- Cleaner file management
+
+# =========================================================
+# 5. DOCK CONFIGURATION
+# =========================================================
+Pinned apps:
+- System Settings
+- Warp
+- Visual Studio Code
+- ChatGPT
+
+- Recent apps in Dock: Disabled
+- Show running app indicators: Enabled
+
+Reason:
+- Minimal Dock
+- Only core tools visible
+
+# =========================================================
+# 6. TRACKPAD & MOUSE
+# =========================================================
+- Natural scrolling: OFF
+- Force click: ON
+- Tracking speed: Medium
+- Scroll speed: Medium
+
+Reason:
+- Traditional scrolling preference
+- Precision control
+
+# =========================================================
+# 7. BATTERY & POWER (AlDente / BatFi)
+# =========================================================
+- Charge limit: 80%
+- Show battery temperature: ON
+- Show battery health & statistics: ON
+- Show power source: ON
+- Show energy impact processes: ON
+- Show last discharge and last full charge: ON
+
+Reason:
+- Battery lifespan protection
+- Full power monitoring
+
+# =========================================================
+# 8. SIRI
+# =========================================================
+- Siri enabled: YES
+- "Hey Siri": OFF
+- Siri in menu bar: OFF
+- Continuous listening: OFF
+
+Reason:
+- Manual invocation only
+- No background listening
+
+# =========================================================
+# 9. PRIVACY & ADS
+# =========================================================
+- Apple personalized ads: ENABLED
+- Apple ad tracking: ENABLED
+
+Note:
+- Can be disabled later for privacy-focused setup
+
+# =========================================================
+# 10. SYSTEM HISTORY
+# =========================================================
+Initial macOS setup: 2025-04
+
+Previously used macOS versions:
+- macOS 14.x
+- macOS 15.x
+- macOS 26.x
+
+# =========================================================
+# 11. USER PROFILE
+# =========================================================
+This setup indicates:
+- Developer / power user
+- Code-focused typing environment
+- Minimal UI
+- Battery health conscious
+- Multilingual workflow
+- Uses Warp + VS Code + ChatGPT as core tools
+
+# =========================================================
+# 12. RESTORE STRATEGY
+# =========================================================
+Apps:
+- Restored via Brewfile
+
+System settings:
+- Restored via defaults write script (see macos-setup.sh)
+
+This file is documentation only.

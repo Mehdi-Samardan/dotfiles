@@ -1,0 +1,101 @@
+cat > ~/Brewfile <<'EOF'
+tap "homebrew/core"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+
+# =====================
+# CLI / Core tools
+# =====================
+brew "git"
+brew "gh"
+brew "wget"
+brew "curl"
+brew "jq"
+brew "yq"
+brew "ripgrep"
+brew "fd"
+brew "fzf"
+brew "bat"
+brew "eza"
+brew "tree"
+brew "htop"
+brew "tmux"
+brew "zoxide"
+brew "shellcheck"
+
+# =====================
+# Dev toolchain
+# =====================
+brew "python"
+brew "node"
+brew "go"
+brew "rust"
+brew "cmake"
+brew "pkg-config"
+brew "llvm"
+brew "openssl@3"
+
+# =====================
+# DevOps / Containers
+# =====================
+brew "docker"
+brew "docker-compose"
+brew "kubectl"
+brew "helm"
+brew "terraform"
+
+# =====================
+# Databases
+# =====================
+brew "postgresql@16"
+brew "redis"
+brew "sqlite"
+
+# =====================
+# Media / Utils
+# =====================
+brew "ffmpeg"
+brew "imagemagick"
+brew "nmap"
+
+# =====================
+# Apps
+# =====================
+cask "opencode-desktop"
+cask "aldente"
+cask "raycast"
+cask "brave-browser"
+cask "iptvnator"
+cask "sublime-text"
+cask "command-x"
+cask "localsend"
+cask "utm"
+cask "firefox"
+cask "warp"
+cask "zen-browser"
+cask "visual-studio-code"
+cask "iterm2"
+cask "google-chrome"
+cask "discord"
+cask "spotify"
+cask "notion"
+cask "slack"
+cask "telegram"
+cask "rectangle"
+cask "alt-tab"
+cask "docker"
+cask "postman"
+cask "github"
+cask "tableplus"
+
+# =====================
+# Fonts
+# =====================
+cask "font-jetbrains-mono"
+cask "font-fira-code"
+EOF
+
+
+install -> brew bundle --file=~/Brewfile
+update  -> brew bundle dump --force
+
