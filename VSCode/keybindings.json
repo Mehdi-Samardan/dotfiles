@@ -1,4 +1,40 @@
-{
-  "key": "ctrl+alt+b",
-  "command": "workbench.action.toggleSidebarVisibility"
-}
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "shift+cmd+right",
+    "command": "workbench.action.splitEditorToRightGroup"
+  },
+  {
+    "key": "shift+cmd+left",
+    "command": "workbench.action.splitEditorToLeftGroup"
+  },
+  {
+    "key": "cmd+n",
+    "command": "-workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "alt+n",
+    "command": "explorer.newFolder"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "cmd+p",
+    "command": "-workbench.action.quickOpen"
+  },
+  {
+    "key": "cmd+p",
+    "command": "-workbench.action.quickOpenNavigateNextInFilePicker",
+    "when": "inFilesPicker && inQuickOpen"
+  },
+  {
+    "key": "cmd+p",
+    "command": "python.execInTerminal-icon"
+  },
+  {
+    "key": "shift+cmd+m",
+    "command": "editor.emmet.action.balanceOut"
+  }
+]

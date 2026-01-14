@@ -1,6 +1,44 @@
 {
-  "editor.fontSize": 16,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "files.autoSave": "afterDelay"
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "files.autoSave": "onFocusChange",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.cursorStyle": "line-thin",
+  "editor.codeActions.triggerOnFocusChange": true,
+  "editor.fastScrollSensitivity": 10,
+  "editor.minimap.autohide": "mouseover",
+  "editor.minimap.showSlider": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.formatOnCellExecution": true,
+  "notebook.formatOnSave.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "editor.stickyScroll.enabled": false,
+  "workbench.experimental.share.enabled": true,
+  "workbench.editor.centeredLayoutFixedWidth": true,
+  "dotnet.formatting.organizeImportsOnFormat": true,
+  "editor.formatOnSave": true,
+  "github.copilot.chat.agent.thinkingTool": true,
+  "github.copilot.chat.codesearch.enabled": true,
+  "python.analysis.typeCheckingMode": "standard",
+  "git.autofetch": true,
+  "workbench.panel.defaultLocation": "right",
+  "editor.rename.enablePreview": false,
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/Users/mehdi/.aitk/instructions/": true
+  },
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 10,
+  "editor.fontSize": 14,
+  "explorer.confirmPasteNative": false
 }
