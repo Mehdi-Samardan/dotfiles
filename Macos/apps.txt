@@ -38,3 +38,4 @@
 * WhatsApp
 * TickTick
 * Wallspace
+* Wave-Term
