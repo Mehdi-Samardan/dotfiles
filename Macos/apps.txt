@@ -37,3 +37,4 @@
 * Xiaomi Home
 * WhatsApp
 * TickTick
+* Wallspace
