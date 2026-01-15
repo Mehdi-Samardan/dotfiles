@@ -87,6 +87,7 @@ cask "docker"
 cask "postman"
 cask "github"
 cask "tableplus"
+cask "productdevbook/tap/portkiller"
 
 # =====================
 # Fonts
