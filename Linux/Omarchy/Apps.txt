@@ -1,0 +1,1 @@
+ZED -> curl -f https://zed.dev/install.sh | sh (https://zed.dev/download)
