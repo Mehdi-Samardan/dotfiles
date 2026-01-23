@@ -39,3 +39,5 @@
 * TickTick
 * Wallspace
 * Wave-Term
+* VidBee
+* Zed
