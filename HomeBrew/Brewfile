@@ -89,6 +89,9 @@ cask "github"
 cask "tableplus"
 cask "productdevbook/tap/portkiller"
 cask "matthewpick/pesto-clipboard/pesto-clipboard"
+cask "zed"
+cask "zeplin"
+cask "figma"
 
 # =====================
 # Fonts
@@ -100,4 +103,3 @@ EOF
 
 install -> brew bundle --file=~/Brewfile
 update  -> brew bundle dump --force
-
