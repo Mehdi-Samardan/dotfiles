@@ -41,3 +41,4 @@
 * Wave-Term
 * VidBee
 * Zed
+* ClearMayMac
