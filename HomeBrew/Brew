@@ -1,0 +1,6 @@
+https://github.com/bluewave-labs/systempulse?tab=readme-ov-file
+brew tap bluewave-labs/systempulse
+brew install --cask systempulse
+
+
+x
