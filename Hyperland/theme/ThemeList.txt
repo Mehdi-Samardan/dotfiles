@@ -1,0 +1,3 @@
+Osaka Jade (https://github.com/Justikun/omarchy-osaka-jade-theme.git)
+Snow Black (https://github.com/ankur311sudo/snow_black.git)
+Black Arch (https://github.com/ankur311sudo/black_arch.git)
