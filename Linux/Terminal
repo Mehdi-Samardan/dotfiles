@@ -1,0 +1,1 @@
+Clock -> yay -S tty-clock (tty-clock -c -C 2 -s)
