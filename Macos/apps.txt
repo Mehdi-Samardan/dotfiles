@@ -42,3 +42,4 @@
 * VidBee
 * Zed
 * ClearMayMac
+* Codex
