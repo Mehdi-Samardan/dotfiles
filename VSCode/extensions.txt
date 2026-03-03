@@ -122,9 +122,7 @@ woodreamz.es7-react-js-snippets
 wooodhead.disable-eslint-rule
 xdebug.php-debug
 xicunyang.ts-space-prompt
-yandeu.five-server
-zarifprogrammer.tailwind-snippets
-zhuangtongfa.material-theme
+
 
 
 
