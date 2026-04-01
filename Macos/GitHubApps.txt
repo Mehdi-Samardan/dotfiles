@@ -1,3 +1,4 @@
 (compressO) -> https://github.com/codeforreal1/compressO?tab=readme-ov-file
 (droppy) -> https://github.com/iordv/droppy?tab=readme-ov-file
 (Applite) -> https://github.com/milanvarady/Applite.git
+(Translator) -> https://github.com/dbilgili/GoogleTranslate?tab=readme-ov-file
