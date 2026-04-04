@@ -3,3 +3,4 @@
 (Applite) -> https://github.com/milanvarady/Applite.git
 (Translator) -> https://github.com/dbilgili/GoogleTranslate?tab=readme-ov-file
 (Claude-God) -> https://github.com/Lcharvol/Claude-God
+(Thor) -> https://github.com/gbammc/Thor/releases
