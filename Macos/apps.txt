@@ -44,3 +44,4 @@
 * ClearMayMac
 * Codex
 * CleanMyKeyboard
+* onyx
