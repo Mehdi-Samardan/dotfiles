@@ -43,3 +43,4 @@
 * Zed
 * ClearMayMac
 * Codex
+* CleanMyKeyboard
