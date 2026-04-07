@@ -4,3 +4,4 @@
 (Translator) -> https://github.com/dbilgili/GoogleTranslate?tab=readme-ov-file
 (Claude-God) -> https://github.com/Lcharvol/Claude-God
 (Thor) -> https://github.com/gbammc/Thor/releases
+(AirBattery) -> https://github.com/lihaoyun6/AirBattery
