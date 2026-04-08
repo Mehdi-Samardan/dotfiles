@@ -5,3 +5,4 @@
 (Claude-God) -> https://github.com/Lcharvol/Claude-God
 (Thor) -> https://github.com/gbammc/Thor/releases
 (AirBattery) -> https://github.com/lihaoyun6/AirBattery
+(FineTune) -> https://github.com/ronitsingh10/FineTune
