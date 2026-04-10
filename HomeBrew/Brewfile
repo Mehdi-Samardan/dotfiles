@@ -103,3 +103,10 @@ EOF
 
 install -> brew bundle --file=~/Brewfile
 update  -> brew bundle dump --force
+
+# TODO: Sorting 
+brew install --cask finetune
+brew install lihaoyun6/tap/airbattery
+brew install --cask wailbrew
+brew install --cas onyx
+brew tap lcharvol/tap && brew install --cask claude-god
