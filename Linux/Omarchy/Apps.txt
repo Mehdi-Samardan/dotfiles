@@ -1,2 +1,3 @@
 ZED -> curl -f https://zed.dev/install.sh | sh (https://zed.dev/download)
 Yuki-iptv-bin -> https://codeberg.org/liya/yuki-iptv
+Githib Desktop Plus -> yay -S github-desktop-plus-bin
