@@ -12,7 +12,6 @@
 * FileZilla
 * Firefox
 * Hot
-* Klack
 * LocalSend
 * Microsoft Excel
 * Microsoft Outlook
