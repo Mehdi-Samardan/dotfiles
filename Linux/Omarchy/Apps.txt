@@ -1,3 +1,0 @@
-ZED -> curl -f https://zed.dev/install.sh | sh (https://zed.dev/download)
-Githib Desktop Plus -> yay -S github-desktop-plus-bin
-Warp
