@@ -18,6 +18,7 @@ Steps
   "$schema": "https://opencode.ai/config.json",
   "autoupdate": false,
   "model": "ollama/<model-name>",
+  "provider": {
     "ollama": {
       "npm": "@ai-sdk/openai-compatible",
       "name": "Ollama (local)",
