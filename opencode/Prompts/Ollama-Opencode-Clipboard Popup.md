@@ -2,7 +2,8 @@
 
 This guide covers three Quickshell/Omarchy customizations:
 1. **Power Popup** — system actions (Lock, Screensaver, Suspend, Hibernate, Logout, Reboot, BIOS Setup, Shutdown) in a popup at the far right of the top bar.
-2. **Clipboard Popup** — clipboard history viewer (via `cliphist`) with up to 10 recent items, opening to the right of the screen-record button.
+2. **
+** — clipboard history viewer (via `cliphist`) with up to 10 recent items, opening to the right of the screen-record button.
 3. **Bluetooth Auto-Connect** — trusted devices (keyboard, mouse, etc.) connect before the login screen.
 
 All popups use the same visual style: vertical bordered-item lists with icon + label, keyboard navigation (arrows + Enter), and mouse click support.
@@ -28,7 +29,7 @@ CardWindow {
     cardWidth: 320
     cardHeight: -1       // auto-size to content
     layerNamespace: "omarchy-power"
-
+    anchorEdge: root.barEdge
     anchorBarX: root.popupAnchorX
     anchorBarY: root.popupAnchorY
 
